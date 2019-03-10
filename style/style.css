@@ -140,7 +140,7 @@ color:aqua;
   height: 104px;
   border-left:1px solid #e4e9eb;  
   display: inline-block;
-  left: 95px;
+  left: 89px;
   top: -10px;
   position: relative;
   width: 1px;
@@ -150,7 +150,7 @@ color:aqua;
   height: 104px;
   border-left:1px solid #e4e9eb;  
   display: inline-block;
-  left: 110px;
+  left: 104px;
   top: -10px;
   position: relative;
   width: 1px;
@@ -160,7 +160,7 @@ color:aqua;
 .row-translate .hexagon{
   position: relative;
   top:41px ;
-  left:102px ;
+  left:96px ;
 
 }
 
