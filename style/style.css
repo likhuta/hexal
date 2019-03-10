@@ -11,7 +11,6 @@ ul, li{
   line-height: 1;
   vertical-align: middle;
 
-
 }
 header{
   background-color: #323232;
@@ -72,13 +71,9 @@ color:aqua;
 
 
 .hexagon-conteiner{
-  /* padding-bottom: 41px; */
-  /* сбалансируем отриц. margin */
-  /* border:0.5px solid red; */
   padding-left: 9px;
   padding-right: 9px;
   position: relative;
-
 
 }  
 
@@ -97,7 +92,6 @@ color:aqua;
   width: 410px;
   display: inline-block;
   margin-bottom: 36px;
-  
 
 }
 .long-line{
@@ -138,7 +132,6 @@ color:aqua;
   transform: rotate(-60deg);
   overflow: hidden;
   visibility: visible;
-  /* background-image: url('../assets/img/Layer\ 41@1X.png'); */
   background-repeat: no-repeat;
   background-position:50% ;
 }
@@ -175,7 +168,6 @@ color:aqua;
   margin-top: -82px;
 }
 .slider-bar{
-  /* border: 0.5px solid black; */
   margin-left: 30px;
   margin-top: 99px;
 
@@ -191,7 +183,6 @@ color:aqua;
   display: inline-block;
   background-color: #e4e9eb;
 
-
 }
 
 .info{
@@ -203,7 +194,6 @@ color:aqua;
 }
 .article{
   padding:   0px 99px 0px 99px ;
-  /* position: relative; */
   display: inline-block;
 
 }
@@ -234,8 +224,6 @@ color:aqua;
   left:0px;
   top:0px;
   width: 1px;
-  
-  /* position: relative; */
 }
 .info .right-border-line{
   margin-top: 13px;
@@ -246,13 +234,10 @@ color:aqua;
   left: 28px;
   top: 0px;
   width: 1px;
-
-  /* position: relative; */
 }
 
 .article-text {
   display: inline-block;
-  /* border:0.5px solid red;   */
   position: relative;
   top: -140px;
   left: 14px;
@@ -341,14 +326,12 @@ footer .long-line{
   border-top:1px solid #2b2b2b;
   padding-bottom: 53px;
 
-
 }
 footer legend{
   margin: 0px;
   font-family: 'Maven Pro', sans-serif;
   font-size: 22px;
   font-weight: lighter;
-
   color: rgba(224, 224, 224, 255);
   text-align: justify;
   padding: 0px;
@@ -356,7 +339,6 @@ footer legend{
 }
 footer .subtitle{
   margin: 0px;
-
   font-family: 'Maven Pro', sans-serif;
   font-size: 17px;
   font-weight: lighter;
@@ -374,7 +356,6 @@ input {
   width: 580px;
   height: 38px;
   padding: 0px;
-
   margin-bottom: 16px;
   padding-left: 14px;
   background-color: #454545;
@@ -385,12 +366,13 @@ textarea{
   width: 580px;
   height: 150px;
   padding: 0px;
-
   padding-left: 14px;
   background-color: #454545;
   outline: none;
   border:none;
   margin-bottom: 16px;
+  font-family: 'Maven Pro', sans-serif;
+  padding-top:13px;
 
 
 }
@@ -453,13 +435,15 @@ button{
   width: 960px;
   display: inline-block;
   margin-top: 53px;
-  /* padding-bottom: 53px; */
 }
 .copyright{
   height: 43px;
   width: 1020px;
   background-color: #222222;
   font-size: 12px;
+  display: inline-block;
+  margin-top: -5px;
+
 }
 .copyright p{
 margin: 0px;
